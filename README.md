@@ -22,5 +22,6 @@ The evaluation metric for this competition is accuracy.
 [Arabic Handwritten Characters Recognition](https://www.kaggle.com/c/arabic-hwr-ai-pro-intake1)
 
 ## Acknowledgement
-The dataset provided in this competition is obtained from [here](https://www.kaggle.com/mloey1/ahcd1).
+- [dependent paper in the solution](https://link.springer.com/content/pdf/10.1007/s00521-020-05070-8.pdf)
+- The dataset provided in this competition is obtained from [here](https://www.kaggle.com/mloey1/ahcd1).
 *This competition is for educational purposes only.*
